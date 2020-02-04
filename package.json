@@ -26,7 +26,7 @@
   "dependencies": {
     "async": "^2.6.2",
     "jsharmony-db": "^1.1.17",
-    "lodash": "^4.17.14",
+    "lodash": "^4.17.13",
     "moment": "^2.24.0",
     "sqlite3": "^4.1.1"
   },
