@@ -1,6 +1,6 @@
 {
   "name": "jsharmony-db-sqlite",
-  "version": "1.12.0",
+  "version": "1.13.0",
   "description": "jsHarmony Database Connector for SQLite",
   "main": "index.js",
   "scripts": {
@@ -28,7 +28,7 @@
     "jsharmony-db": "^1.2.0",
     "lodash": "^4.17.19",
     "moment": "^2.24.0",
-    "sqlite3": "^4.1.1"
+    "sqlite3": "^5.1.7"
   },
   "devDependencies": {
     "mocha": "^7.2.0"
